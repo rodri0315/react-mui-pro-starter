@@ -1,0 +1,2 @@
+- name: Shipwright Tokens
+  uses: headwayio/shipwright-tokens@v0.1.0-beta
