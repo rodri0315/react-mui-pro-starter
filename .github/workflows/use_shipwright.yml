@@ -27,6 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Shipwright Token JR
-        uses: rodri0315/shipwright-tokens-jr@v0.1.3-beta
+        uses: rodri0315/shipwright-tokens-jr@v0.1.4-beta
 
 
